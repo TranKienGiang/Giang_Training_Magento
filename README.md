@@ -1,9 +1,9 @@
 <h2> Hi, I'm Giang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">AHT Tech</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.thoughtworks.com">AHT Jsc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.arrowhitech.com/">AHT Tech</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer at <a href="https://www.arrowhitech.com/">AHT Jsc</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![FaceBook: Giang](https://img.shields.io/facebook/follow/giangcakho?style=social)](https://facebook.com/Giangcakho)
+[![FaceBook: Giang](https://img.shields.io/twitter/follow/giangcakho?style=social)](https://facebook.com/Giangcakho)
 [![Youtube: Giang Chanel](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giangcakho/)](https://www.youtube.com/channel/UC6pTNTwadNSBhvjcI2HB6fA)
 [![GitHub Giang](https://img.shields.io/github/followers/TranKienGiang?label=follow&style=social)](https://github.com/TranKienGiang)
 
